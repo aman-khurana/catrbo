@@ -1,0 +1,1 @@
+{"objective": "binary:logistic", "eval_metric": ["logloss"], "num_round": 12.352831840515137, "learning_rate": 0.770662784576416, "gamma": 0.016311148181557655, "subsample": 0.1930929720401764, "max_depth": 3.4336235523223877}
